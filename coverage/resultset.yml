@@ -1,21 +1,21 @@
---- 
-RSpec: 
-  :original_result: 
-    /home/saasbook/Aptana Studio 3 Workspace/saas.hw4.rottenpotatoes/app/controllers/application_controller.rb: 
+---
+RSpec:
+  :original_result:
+    /Users/jgon91/Sites/hw4_rottenpotatoes/app/controllers/application_controller.rb:
     - 1
     - 1
     - 
-    /home/saasbook/Aptana Studio 3 Workspace/saas.hw4.rottenpotatoes/app/helpers/application_helper.rb: 
+    /Users/jgon91/Sites/hw4_rottenpotatoes/app/helpers/application_helper.rb:
     - 1
     - 
-    /home/saasbook/Aptana Studio 3 Workspace/saas.hw4.rottenpotatoes/app/helpers/movies_helper.rb: 
+    /Users/jgon91/Sites/hw4_rottenpotatoes/app/helpers/movies_helper.rb:
     - 1
     - 
     - 1
     - 0
     - 
     - 
-    /home/saasbook/Aptana Studio 3 Workspace/saas.hw4.rottenpotatoes/app/controllers/movies_controller.rb: 
+    /Users/jgon91/Sites/hw4_rottenpotatoes/app/controllers/movies_controller.rb:
     - 1
     - 
     - 1
@@ -95,30 +95,30 @@ RSpec:
     - 
     - 
     - 
-    /home/saasbook/Aptana Studio 3 Workspace/saas.hw4.rottenpotatoes/app/models/movie.rb: 
+    /Users/jgon91/Sites/hw4_rottenpotatoes/app/models/movie.rb:
     - 1
     - 1
     - 6
     - 
     - 
-  :created_at: 2012-03-25 13:17:14.156742 -07:00
-Cucumber Features: 
-  :original_result: 
-    /home/saasbook/Aptana Studio 3 Workspace/saas.hw4.rottenpotatoes/app/controllers/application_controller.rb: 
+  :created_at: 2013-05-05 14:25:17.302889000 -07:00
+Cucumber Features:
+  :original_result:
+    /Users/jgon91/Sites/hw4_rottenpotatoes/app/controllers/application_controller.rb:
     - 1
     - 1
     - 
-    /home/saasbook/Aptana Studio 3 Workspace/saas.hw4.rottenpotatoes/app/helpers/application_helper.rb: 
+    /Users/jgon91/Sites/hw4_rottenpotatoes/app/helpers/application_helper.rb:
     - 1
     - 
-    /home/saasbook/Aptana Studio 3 Workspace/saas.hw4.rottenpotatoes/app/helpers/movies_helper.rb: 
+    /Users/jgon91/Sites/hw4_rottenpotatoes/app/helpers/movies_helper.rb:
     - 1
     - 
     - 1
     - 0
     - 
     - 
-    /home/saasbook/Aptana Studio 3 Workspace/saas.hw4.rottenpotatoes/app/controllers/movies_controller.rb: 
+    /Users/jgon91/Sites/hw4_rottenpotatoes/app/controllers/movies_controller.rb:
     - 1
     - 
     - 1
@@ -166,41 +166,42 @@ Cucumber Features:
     - 1
     - 1
     - 1
-    - 
-    - 
-    - 1
-    - 
-    - 
-    - 
-    - 1
-    - 0
-    - 0
-    - 0
-    - 
-    - 
-    - 1
     - 1
     - 
     - 
     - 1
-    - 1
-    - 1
-    - 1
-    - 1
+    - 
     - 
     - 
     - 1
     - 0
     - 0
     - 0
+    - 
+    - 
+    - 1
+    - 1
+    - 
+    - 
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 
+    - 
+    - 1
+    - 0
+    - 0
+    - 0
     - 0
     - 
     - 
     - 
-    /home/saasbook/Aptana Studio 3 Workspace/saas.hw4.rottenpotatoes/app/models/movie.rb: 
+    /Users/jgon91/Sites/hw4_rottenpotatoes/app/models/movie.rb:
     - 1
     - 1
     - 1
     - 
     - 
-  :created_at: 2012-03-25 08:44:59.167448 -07:00
+  :created_at: 2013-05-05 14:24:21.608361000 -07:00
